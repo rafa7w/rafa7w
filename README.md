@@ -7,5 +7,6 @@ My favorite hobby is playing stringed instruments.
 - 🔭 I’m currently working on Inlog Group 
 - 🌱 I’m currently learning JavaScript, NodeJS, ReactJS.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rafael-william-bba334150//)
+<a href="https://www.linkedin.com/in/rafael-william-bba334150/">
+  <img src="https://github.com/rafa7w/rafa7w/blob/main/linkedin.png"/>
+</a>

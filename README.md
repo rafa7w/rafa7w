@@ -1,11 +1,9 @@
-### Hi there 👋
+### Oi, pessoal 👋
 
-I am a person who loves mobile development and I am studying to become a mobile developer. 
+Participando da construção de software junto a milhares de dev's.
 
-My favorite hobby is playing stringed instruments.
-
-- 🔭 I’m currently working on Inlog Group 
-- 🌱 I’m currently learning Flutter and Dart language.
+- 🔭 Em atuação no Grupo Inlog
+- 🌱 Aprendendo um pouco todo dia
 
 <br>
 <a href="https://www.linkedin.com/in/rafael-william-bba334150/">
